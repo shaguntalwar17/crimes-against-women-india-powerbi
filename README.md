@@ -18,7 +18,7 @@ The objective is not only to visualize numbers but to **amplify unheard voices**
 
 ---
 
-## 📊 Scope of Analysis
+## Scope of Analysis
 The dashboard and report provide a **three-level analytical view**:
 
 ### National Level
