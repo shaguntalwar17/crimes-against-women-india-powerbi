@@ -55,17 +55,20 @@ The dashboard and report provide a **three-level analytical view**:
 - Power Query (Data extraction, cleaning, and transformation)
 - DAX (KPIs, severity indicators, trend analysis)
 - LaTeX (Professional report writing and structured documentation)
+- Canva (Poster)
+- VS Code (Data visualization code)
+- Microsoft PowerPoint(PPT)
 - Data Analysis & Analytical Storytelling
-
 
 ---
 
 ## Repository Contents
 - Power BI Working File (.pbix)
 - Power BI Dashboard (PDF export)
-- Project Poster (PDF)
+- Project Poster (PDF,prepared using Canva)
 - Detailed Analytical Report (PDF, prepared using LaTeX)
- 
+- Data Visualization Code File (prepared in VS code)
+- POwerPoint Presentation
 
 ---
 
